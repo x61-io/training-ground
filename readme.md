@@ -1,5 +1,3 @@
-
-
 # Before you can run, you learn how to walk.
 
 Its time to write some C by hand. No model help. Just the *man pages* and effort.
